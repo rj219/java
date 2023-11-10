@@ -1,0 +1,18 @@
+
+public class Array {
+	public static void main(String args[])
+	{
+		int[][] Arr= {{12,13,14},
+					    {13,14,15},
+					    {14,15,16}}; 
+		int i,j;
+		
+		for (i=0; i<=Arr.length; i++)
+		{
+			for (j=0; j<=Arr[i].length; j++)
+			{
+				System.out.print(Arr[i][j]);
+			}
+		}
+	}
+}

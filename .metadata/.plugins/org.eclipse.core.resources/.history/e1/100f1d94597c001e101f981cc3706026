@@ -1,0 +1,24 @@
+
+public class Enhanced_forloop {
+	
+	private static final char[] m = null;
+
+	public static void main(String args[])
+	{
+		int a[][] = {{1,2,3,4},
+					 {5,6,7,8}};
+		
+//		a[i][j] = new int [3][3];
+		
+		
+		for (int n[] : a)
+		{
+			for (int m : n);
+		
+		{
+			System.out.print(m);
+		}
+	}
+
+}
+}

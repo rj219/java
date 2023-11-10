@@ -1,0 +1,35 @@
+class Phone
+{
+	String name;
+	int price;
+	char typeCharge;
+	
+	public void show()
+	{
+		System.out.println(name+" "+price+" "+typeCharge);
+	}
+}
+
+public class Mobile {
+	
+	public static void main(String args[])
+	{
+		Phone ph = new Phone();
+		
+		ph.name = "Apple";
+		ph.price = 35000;
+		ph.typeCharge = 'c';
+		
+		Phone ph1 = new Phone();
+		
+		
+		ph1.name = "Samsung";
+		ph1.price = 40000;
+		ph1.typeCharge = 'c';
+		
+		ph.show();
+		ph1.show();
+		
+	}
+
+}

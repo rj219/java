@@ -1,0 +1,31 @@
+class Addition
+{
+	public int Add(int num, int num1)
+	{
+		return num + num1;
+	}
+	public int Subs(int num , int num1)
+	{
+		return num - num1;
+	}
+	public int Multi(int num, int num1)
+	{
+		return num * num1;
+	}
+	public int Div(int num, int num1)
+	{
+		return num / num1;
+	}
+	public int Mod(int num , int num1)
+	{
+		return num % num1;
+	}
+}
+public class calcu {
+	public static void main(String args[])
+	{
+		Addition Add = new Addition();
+		Add.Add(10, 20);
+	}
+
+}

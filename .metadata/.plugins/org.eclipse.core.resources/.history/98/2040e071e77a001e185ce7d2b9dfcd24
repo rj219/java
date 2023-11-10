@@ -1,0 +1,50 @@
+class first
+{
+	public int Loop()
+	{
+		int i;
+		int j;
+	
+	for (i=1; i<=5; i++)
+	{
+		for (j=1; i<=i; j++)
+		{
+			System.out.println(j);
+		}
+		System.out.println();
+	}
+	return 0;
+	}
+}
+
+class second
+{
+	public int Loop()
+	{
+		int i;
+		int j;
+		int l;
+		
+		for (i=1; i<=5; i++)
+		{
+			for (j=i; j<=5; j++)
+			{
+				System.out.println(" ");
+			}
+			for(l=1; l<=i; l++)
+			{
+				System.out.println(" *");
+			}
+			System.out.println();
+		}
+		return 0;
+	}
+}
+public class Rec_loop {
+	public static void main(String args[])
+	{
+		first obj = new first();
+		obj.Loop();
+	}
+
+}
