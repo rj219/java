@@ -3,13 +3,13 @@
 	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="0"/>
 	<item key="GitSelectRepositoryPage.lastRepository" value="C:\Users\dell\git\01Nov_Java_2023\.git"/>
 	<list key="EGit.KnownHosts">
-		<item value="bitbucket.org"/>
 		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
 		<item value="github.com"/>
 	</list>
 	<list key="RepositorySelectionPage.UsedUris">
-		<item value="file://C:\Users\dell\git\01Nov_Java_2023"/>
 		<item value="https://github.com/Chintan358/01Nov_Java_2023.git"/>
+		<item value="file://C:\Users\dell\git\01Nov_Java_2023"/>
 	</list>
 	<list key="CommitDialog.authorValues">
 		<item value="dell &lt;dell@DESKTOP-4GBILNN&gt;"/>
@@ -35,10 +35,10 @@
 	<section name="GitCommitMessageComponent">
 		<list key="C:\Users\dell\git\01Nov_Java_2023\.git">
 			<item value="false"/>
-			<item value=""/>
-			<item value="jk"/>
-			<item value=""/>
-			<item value="0000000000000000000000000000000000000000"/>
+			<item value="author@gmail.com"/>
+			<item value="# WARNING: head commit changed in the meantime&#x0D;&#x0A;&#x0D;&#x0A;abc"/>
+			<item value="author@gmail.com"/>
+			<item value="560786d933302d4736c8660d67ff92c015252b20"/>
 			<item value="0"/>
 			<item value="false"/>
 			<item value=""/>
