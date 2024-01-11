@@ -14,7 +14,6 @@ public class Reverse {
 			 int rem = num % 10;
 			
 			ans = ans * 10 + rem;
-//			s = s+rem;
 			num/=10;
 		}
 		System.out.println(ans);
