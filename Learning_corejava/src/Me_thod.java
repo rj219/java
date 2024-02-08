@@ -5,7 +5,7 @@ class parent
 		System.out.println("Dancing...");
 	}
 	
-	public String_h Food(int cost)
+	public String Food(int cost)
 	{
 		if (cost >=499)
 		{
@@ -23,7 +23,7 @@ public class Me_thod {
 		parent par = new parent();
 		
 		par.Dance();
-		String_h str = par.Food(500);
+		String str = par.Food(500);
 		System.out.println(str);
 	}
 

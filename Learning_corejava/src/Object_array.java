@@ -1,12 +1,12 @@
 class Student
 {
 	int rollnumber;
-	String_h name;
+	String name;
 	int marks;
 }
 public class Object_array {
 	
-	public static void main(String_h args[])
+	public static void main(String args[])
 	{
 		Student S1 = new Student();
 		

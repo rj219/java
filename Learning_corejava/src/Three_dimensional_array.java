@@ -15,12 +15,12 @@ public class Three_dimensional_array {
 			}
 		}
 		
-		for (int n[][] : num )
-		{
-			for (int m : n[][][])
-			{
-				System.out.println(m);
-			}
-		}
+//		for (int n[][] : num )
+//		{
+//			for (int m : )
+//			{
+//				System.out.println(m);
+//			}
+//		}
 	}
 }

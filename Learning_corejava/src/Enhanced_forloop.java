@@ -7,7 +7,7 @@ public class Enhanced_forloop {
 		int a[][] = {{1,2,3,4},
 					 {5,6,7,8}};
 		
-	int a[][] = new int [3][3];
+//	int a[][] = new int [3][3];
 		
 		
 		for (int n[] : a)
