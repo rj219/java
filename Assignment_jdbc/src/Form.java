@@ -94,7 +94,7 @@ public class Form {
 	 */
 	private void initialize() {
 		frame = new JFrame();
-		frame.setBounds(100, 100, 554, 504);
+		frame.setBounds(100, 100, 700, 700);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 		
@@ -172,7 +172,6 @@ public class Form {
 		JButton Deletebutton = new JButton("Delete");
 		Deletebutton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				System.out.println("Enter the ID :- ");
 				String id = idfield.getText().trim();
 				int idfield = Integer.parseInt(id);
 				try {

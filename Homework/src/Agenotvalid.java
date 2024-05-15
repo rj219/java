@@ -9,9 +9,7 @@ public class Agenotvalid  extends Exception
 	}
 	public void toAge() 
 	{
-		System.err.println("18 Year should be completed!!!!" + " After "+Ag+" You can vote ");
-		
-		
+		System.out.println("18 Year should be completed!!!!" + " After "+Ag+" You can vote ");
 	}
 
 }

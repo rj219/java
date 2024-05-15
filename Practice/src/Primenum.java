@@ -28,6 +28,6 @@ class Primenum
 		{
 			System.out.println(i+":"+"These are the non-prime number");
 		}
-		System.out.print(num);
+	
 	}
 }

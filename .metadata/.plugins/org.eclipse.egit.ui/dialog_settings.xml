@@ -12,9 +12,15 @@
 		<item value="file://C:\Users\dell\git\01Nov_Java_2023"/>
 	</list>
 	<list key="CommitDialog.authorValues">
+		<item value="Janak &lt;jdrathod219@gmail.com&gt;"/>
+		<item value="&lt;JDRATHOD219@GMAIL.COM&gt;"/>
+		<item value="A U THOR&lt;author@gmail.com&gt;"/>
 		<item value="dell &lt;dell@DESKTOP-4GBILNN&gt;"/>
 	</list>
 	<list key="CommitDialog.committerValues">
+		<item value="Janak &lt;jdrathod219@gmail.com&gt;"/>
+		<item value="&lt;JDRATHOD219@GMAIL.COM&gt;"/>
+		<item value="C O Mitter&lt;author@gmail.com&gt;"/>
 		<item value="dell &lt;dell@DESKTOP-4GBILNN&gt;"/>
 	</list>
 	<section name="org.eclipse.egit.ui.internal.pull.PullResultDialog.dialogBounds">
@@ -35,10 +41,10 @@
 	<section name="GitCommitMessageComponent">
 		<list key="C:\Users\dell\git\01Nov_Java_2023\.git">
 			<item value="false"/>
-			<item value="author@gmail.com"/>
-			<item value="# WARNING: head commit changed in the meantime&#x0D;&#x0A;&#x0D;&#x0A;abc"/>
-			<item value="author@gmail.com"/>
-			<item value="560786d933302d4736c8660d67ff92c015252b20"/>
+			<item value="Janak &lt;jdrathod219@gmail.com&gt;"/>
+			<item value="Merge branch &apos;master&apos; of https://github.com/Chintan358/01Nov_Java_2023.git"/>
+			<item value="Janak &lt;jdrathod219@gmail.com&gt;"/>
+			<item value="a39ffbf03b05e556c266b8385f985fbb745f4761"/>
 			<item value="0"/>
 			<item value="false"/>
 			<item value=""/>
